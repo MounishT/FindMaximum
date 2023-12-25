@@ -44,8 +44,7 @@ def max_marks(list1):
         if i > max:
             max = i
     return max
-## Sample Input and Output
-![output](./img/max_marks1.jpg) 
+
 
 ## Output:
 ![Screenshot 2023-12-25 084042](https://github.com/MounishT/FindMaximum/assets/138955798/3a0932ef-2b0f-491a-bc51-15a128af0292)
