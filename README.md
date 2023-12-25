@@ -43,9 +43,8 @@ def max_marks(marks):
 ![output](./img/max_marks1.jpg) 
 
 ## Output:
-![Screenshot 2023-12-25 084042](https://github.com/MounishT/FindMaximum/assets/138955798/23d1824b-62a8-4680-b688-98b4057336c0)
-![Screenshot 2023-12-25 084042](https://github.com/MounishT/FindMaximum/assets/138955798/ccca1e62-4e81-421c-a314-39b93dd6450e)
-![Screenshot 2023-12-25 084213](https://github.com/MounishT/FindMaximum/assets/138955798/58494bc8-e659-46f8-90e6-5f9e50107058)
+![Screenshot 2023-12-25 084042](https://github.com/MounishT/FindMaximum/assets/138955798/3a0932ef-2b0f-491a-bc51-15a128af0292)
+![Screenshot 2023-12-25 084213](https://github.com/MounishT/FindMaximum/assets/138955798/3a8403d8-9c43-46fd-903a-a057bf4b8891)
+![Screenshot 2023-12-25 084332](https://github.com/MounishT/FindMaximum/assets/138955798/d8339dc7-cc1f-4554-bb9e-4a298ca3eb5d)
 
-## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
